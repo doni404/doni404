@@ -39,12 +39,12 @@ I have successfully delivered many projects on time to clients. Besides working,
 
 ### 🏋🏻‍♂️ Latest Released Projects
 <div>
-<a href="https://knitworks-japan.com/" target="_blank"><img align="left" alt="Knit Works Japan - Famous Brand E-Commerce" width="300px" style="padding-right:10px;" src="https://api.doniputra.com/v1/public/resources/images/portfolios/porto9.jpg" /></a>
-<a href="https://art-with.me/" target="_blank"><img align="left" alt="Art With Me - NFT Marketplace Site" width="300px" style="padding-right:10px;" src="https://api.doniputra.com/v1/public/resources/images/portfolios/porto8.jpg" /></a>
-<a href="https://jhia.academy/" target="_blank"><img align="left" alt="JHIA Academy - Online Sewing Course Site" width="300px" style="padding-right:10px;" src="https://api.doniputra.com/v1/public/resources/images/portfolios/porto7.jpg" /></a>
-<a href="https://jimomo.jp/" target="_blank"><img align="left" alt="Jimomo - E-Commerce Portal Site" width="300px" style="padding-right:10px;" src="https://api.doniputra.com/v1/public/resources/images/portfolios/porto6.jpg" /></a>
-<a href="https://crafting.education/" target="_blank"><img align="left" alt="Crafting - Japan Craft Online Course" width="300px" style="padding-right:10px;" src="https://api.doniputra.com/v1/public/resources/images/portfolios/porto5.jpg" /></a>
-<a href="https://nihonvogue.com/" target="_blank"><img align="left" alt="Nihonvogue - Japan Craft Holdings Company Site" width="300px" style="padding-right:10px;" src="https://api.doniputra.com/v1/public/resources/images/portfolios/porto4.jpg" /></a>
+<a href="https://knitworks-japan.com/" target="_blank"><img align="left" alt="Knit Works Japan - Famous Brand E-Commerce" width="250px" style="padding-right:10px;" src="https://api.doniputra.com/v1/public/resources/images/portfolios/porto9.jpg" /></a>
+<a href="https://art-with.me/" target="_blank"><img align="left" alt="Art With Me - NFT Marketplace Site" width="250px" style="padding-right:10px;" src="https://api.doniputra.com/v1/public/resources/images/portfolios/porto8.jpg" /></a>
+<a href="https://jhia.academy/" target="_blank"><img align="left" alt="JHIA Academy - Online Sewing Course Site" width="250px" style="padding-right:10px;" src="https://api.doniputra.com/v1/public/resources/images/portfolios/porto7.jpg" /></a>
+<a href="https://jimomo.jp/" target="_blank"><img align="left" alt="Jimomo - E-Commerce Portal Site" width="250px" style="padding-right:10px;" src="https://api.doniputra.com/v1/public/resources/images/portfolios/porto6.jpg" /></a>
+<a href="https://crafting.education/" target="_blank"><img align="left" alt="Crafting - Japan Craft Online Course" width="250px" style="padding-right:10px;" src="https://api.doniputra.com/v1/public/resources/images/portfolios/porto5.jpg" /></a>
+<a href="https://nihonvogue.com/" target="_blank"><img align="left" alt="Nihonvogue - Japan Craft Holdings Company Site" width="250px" style="padding-right:10px;" src="https://api.doniputra.com/v1/public/resources/images/portfolios/porto4.jpg" /></a>
 </div>
 
 [<img src="https://custom-icon-badges.demolab.com/badge/-Portfolio%20Site-red?style=for-the-badge&logo=website&logoColor=white"/>]([https://www.youtube.com/c/fknight?sub_confirmation=1](https://doniputra.com/))
