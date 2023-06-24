@@ -25,16 +25,16 @@ I have successfully delivered many projects on time to clients. Besides working,
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" data-align="left" style="padding-right:10px;" width="35" alt="Python" />
   <img src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" data-align="left" style="padding-right:10px;" width="35" alt="Spring" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" data-align="left" style="padding-right:10px;" width="35" alt="GitHub" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" data-align="left" style="padding-right:10px;" width="35" alt="Git" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" data-align="left" style="padding-right:10px;" width="35" alt="Bash" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" data-align="left" style="padding-right:10px;" width="35" alt="Linux" />
-    <img src="https://cdn1.iconfinder.com/data/icons/smallicons-logotypes/32/amazon-1024.png" data-align="left" style="padding-right:10px;" width="35" alt="AWS" />
-    <img src="https://thirdweb.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fwhite-logo.a8cda9b2.png&amp;w=1080&amp;q=75" data-align="left" style="padding-right:10px;" width="35" alt="Thirdweb" />
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/MetaMask_Fox.svg/1200px-MetaMask_Fox.svg.png" data-align="left" style="padding-right:10px;" width="35" alt="Metamask" />
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Square%2C_Inc._-_Square_logo.svg/1200px-Square%2C_Inc._-_Square_logo.svg.png" data-align="left" style="padding-right:10px;" width="35" alt="Square" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" data-align="left" style="padding-right:10px;" width="35" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" data-align="left" style="padding-right:10px;" width="35" alt="Bash" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" data-align="left" style="padding-right:10px;" width="35" alt="Linux" />
+  <img src="https://cdn1.iconfinder.com/data/icons/smallicons-logotypes/32/amazon-1024.png" data-align="left" style="padding-right:10px;" width="35" alt="AWS" />
+  <img src="https://thirdweb.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fwhite-logo.a8cda9b2.png&amp;w=1080&amp;q=75" data-align="left" style="padding-right:10px;" width="35" alt="Thirdweb" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/MetaMask_Fox.svg/1200px-MetaMask_Fox.svg.png" data-align="left" style="padding-right:10px;" width="35" alt="Metamask" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Square%2C_Inc._-_Square_logo.svg/1200px-Square%2C_Inc._-_Square_logo.svg.png" data-align="left" style="padding-right:10px;" width="35" alt="Square" />
   <img src="https://cdn.iconscout.com/icon/free/png-256/free-stripe-2-498440.png?f=webp" data-align="left" style="padding-right:10px;" width="35" alt="Stripe" />
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/PayPal_Logo_Icon_2014.svg/624px-PayPal_Logo_Icon_2014.svg.png" data-align="left" style="padding-right:10px;" width="30" alt="Paypal" />
-    <img src="https://gloding.com/wp-content/uploads/2022/02/3769.T-150x150.webp" data-align="left" style="padding-right:10px;" width="35" alt="GMO" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/PayPal_Logo_Icon_2014.svg/624px-PayPal_Logo_Icon_2014.svg.png" data-align="left" style="padding-right:10px;" width="30" alt="Paypal" />
+  <img src="https://gloding.com/wp-content/uploads/2022/02/3769.T-150x150.webp" data-align="left" style="padding-right:10px;" width="35" alt="GMO" />
 </div>
 
 <br />
@@ -42,7 +42,7 @@ I have successfully delivered many projects on time to clients. Besides working,
 #
 
 ### 🏋🏻‍♂️ Latest Released Projects
-<div>
+<div style="display:flex;flex-wrap:wrap;align-items:center;">
 <a href="https://knitworks-japan.com/" target="_blank"><img data-align="left" alt="Knit Works Japan - Famous Brand E-Commerce" width="250px" style="padding-right:10px;" src="https://api.doniputra.com/v1/public/resources/images/portfolios/porto9.jpg" /></a>
 <a href="https://art-with.me/" target="_blank"><img data-align="left" alt="Art With Me - NFT Marketplace Site" width="250px" style="padding-right:10px;" src="https://api.doniputra.com/v1/public/resources/images/portfolios/porto8.jpg" /></a>
 <a href="https://jhia.academy/" target="_blank"><img data-align="left" alt="JHIA Academy - Online Sewing Course Site" width="250px" style="padding-right:10px;" src="https://api.doniputra.com/v1/public/resources/images/portfolios/porto7.jpg" /></a>
@@ -51,7 +51,7 @@ I have successfully delivered many projects on time to clients. Besides working,
 <a href="https://nihonvogue.com/" target="_blank"><img data-align="left" alt="Nihonvogue - Japan Craft Holdings Company Site" width="250px" style="padding-right:10px;" src="https://api.doniputra.com/v1/public/resources/images/portfolios/porto4.jpg" /></a>
 </div>
 
-[<img src="https://custom-icon-badges.demolab.com/badge/-Portfolio%20Site-red?style=for-the-badge&logo=website&logoColor=white"/>]([https://www.youtube.com/c/fknight?sub_confirmation=1](https://doniputra.com/))
+<a href="https://doniputra.com/" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/-Portfolio%20Site-red?style=for-the-badge&logo=website&logoColor=white"/></a>
 
 #
 
